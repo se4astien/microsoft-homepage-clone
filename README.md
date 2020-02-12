@@ -1,6 +1,6 @@
 # Microsoft Homepage Clone
 
-In this project I build my own version of the Microsoft homepage using HTML5/CSS and a bit of JS for the menu. 
+In this project I build my own version of the Microsoft homepage using HTML5/CSS and JS for the menu. 
 
 CSS including CSS grid, flexbox and responsive media queries.
 
