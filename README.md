@@ -13,6 +13,6 @@ https://microsoft-homepage-clone.netlify.com/
 
 ## Screenshots
 
-![](https://github.com/se4astien/microsoft-homepage-clone/blob/master/src/screenshots/microsoft-clone-01.png)
-![](https://github.com/se4astien/microsoft-homepage-clone/blob/master/src/screenshots/microsoft-clone-02.png)
-![](https://github.com/se4astien/microsoft-homepage-clone/blob/master/src/screenshots/microsoft-clone-03.png)
+![](https://github.com/se4astien/microsoft-homepage-clone/blob/master/screenshots/microsoft-clone-01.png)
+![](https://github.com/se4astien/microsoft-homepage-clone/blob/master/screenshots/microsoft-clone-02.png)
+![](https://github.com/se4astien/microsoft-homepage-clone/blob/master/screenshots/microsoft-clone-03.png)
